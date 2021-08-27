@@ -1,8 +1,8 @@
 # Skripture
 
-> So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it.
+> So shall my config be that goeth forth out of my Kubernetes cluster: it shall not deliver unto me void, but it shall accomplish that which I please, and it shall prosper in the environment whereto I sent it.
 >
-> -- Isaiah 55:11
+> -- Isaiah 55:11 (more or less)
 
 ## What is Skripture?
 
