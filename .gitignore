@@ -6,7 +6,7 @@
 *.so
 *.dylib
 
-bin/*
+./skripture
 
 # Test binary, built with `go test -c`
 *.test
