@@ -39,6 +39,14 @@ REDIS_PORT=6379
 PORT=4000
 ```
 
+## TODO
+
+- [ ] Refactor & Write unit tests
+- [ ] Use Viper & a better logger for a nicer CLI experience
+- [ ] Allow the user to select a container instead of merging the environment of all containers that match a pods selector
+- [ ] Provide support for binary as well as text configuration
+- [ ] Provide file-mounting support for configuration files which need to be on disk
+
 [0]: https://github.com/johnhamelink/skripture
 [1]: https://github.com/99designs/aws-vault
 [2]: https://github.com/getoutreach/localizer
